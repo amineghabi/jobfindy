@@ -2,10 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Users/Aymen/Desktop/Github Projects/Jobfindy_android/app/src/main/java/com/pixels/jobfindy/fragment/profileemployeur/ProfileEmployeurFragment.java'" />
     <option name="defaultScopeName" value="File '/Users/Aymen/Desktop/Github Projects/Jobfindy_android/app/src/main/java/com/pixels/jobfindy/fragment/profileemployeur/ProfileEmployeurFragment.java'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/Aymen/Desktop/Github Projects/Jobfindy_android/app/src/main/java/com/pixels/jobfindy/fragment/profileemployeur/ProfileEmployeurFragment.java'" />
   </component>
 </application>
